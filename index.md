@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Risa's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/risaiwazaki/personaltech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my github page! Here is where I include my code from my challenges and share with my classmates. Must be on hotspot/not on school wifi to run this!
 
 ### Markdown
 
