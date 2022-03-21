@@ -4,39 +4,87 @@ Below are some coding snippets.
 
 http://p1-valid.me/personaltech/
 
-## Matrix
-        for (int j = 0; j < matrix[x].length; j++){ // this is the line that doesn’t go through the matrix that doesn’t have everything
-           // nested for loops, this second one is the width of the matrix
-            if (matrix[i][j] == -1){
-                System.out.print(”  “);
-            }
-            else if (matrix[i][j] > 9){
-                String n = Integer.toHexString(matrix[i][j]);
-                System.out.print(n);
-                System.out.print(” “);
-            }
-            else {
-                System.out.print(matrix[i][j]);
-                System.out.print(” “);
-            }
-        }
-        System.out.println(“”);
-        x++;
+## Queue
+       package week_1;
+
+import java.util.ArrayList;
+
+public class queue<T> {
+
+    private ArrayList<T> list = new ArrayList<T>();
+
+    public queue() {}
+
+    public void push(T data){
+        list.add(data);
     }
+
+    //remove from queue (pop)
+    public void pop(){
+        //if list is not empty
+        if(!list.isEmpty()){
+            //remove item from list
+            list.remove(0);
+        }
+        else{
+            System.out.println("null");
+        }
+    }
+
+    //view top of queue (peek)
+    public T peek(){
+        if(!list.isEmpty()){
+            return list.get(0);
+        }
+        else{
+            return null;
+        }
+    }
+
+    //view entire queue
+    public ArrayList<T> display(){
+        return list;
+    }
+
+    //view length of queue
+    public int length(){
+        return list.size();
+    }
+
+    //clear queue
+    public void clear(){
+        list.clear();
+    }
+}
+
 ## Menu
 ## IntByReference
-    public IntByReference(int n){
-    this.value = n;
+   import abstract_classes.funcMaster;
+
+import java.util.Dictionary;
+import java.util.Scanner;
+
+public class menu {
+
+    //Initialize variables
+    private Dictionary<Integer, funcMaster> elements;
+    Scanner input = new Scanner(System.in);
+
+    //Constructor
+    public menu(Dictionary<Integer, funcMaster> elements) {
+        //Takes dictionary as input
+        this.elements = elements;
     }
-    public IntByReference swapToLowHighOrder(IntByReference x){
-     IntByReference temp = new IntByReference (value);
-    if (x.value < value){
-        temp.value = value;
-        value = x.value;
-        x.value = temp.value;
+
+    //Iterate over dictionary and print all values
+    public void print() {
+        for(int i = 1; i <= this.elements.size(); i++) {
+            System.out.print(i + " ");
+            System.out.println(elements.get(i).getSelection());
+        }
     }
-    else {
-        return x;
+
+    public void run(int x) {
+        this.elements.get(x).run();
     }
-    return x;
 }
