@@ -12,11 +12,11 @@ http://p1-valid.me/personaltech/
 ## Queue
 
 ```
-    package week_1;
+package week_1;
 
-    import java.util.ArrayList;
+import java.util.ArrayList;
 
-    public class queue<T> {
+public class queue<T> {
 
     private ArrayList<T> list = new ArrayList<T>();
 
