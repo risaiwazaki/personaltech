@@ -2,6 +2,8 @@
 
 Welcome to my github page! Here is where I include my code from my challenges and share with my classmates. Must be on hotspot/not on school wifi to run this!
 
+Testing the [markdown linking](/personaltech/index.md).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
