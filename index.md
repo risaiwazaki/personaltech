@@ -2,9 +2,11 @@
 
 Welcome to my github page! Here is where I include my code from my challenges and share with my classmates. Must be on hotspot/not on school wifi to run this!
 
-Here is my [Week 1 Work](/personaltech/week1){: .btn}.
+Here is my [Week 1 Work](/personaltech/week1).
 
-Here is my [Week 2 Work](/personaltech/week2){: .btn}.
+Here is my [Week 2 Work](/personaltech/week2).
+
+<button name="button">Click me</button>
 
 ### Markdown
 
