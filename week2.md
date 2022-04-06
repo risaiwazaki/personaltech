@@ -7,6 +7,8 @@ Below are some coding snippets.
 http://p1-valid.me/personaltech/
 
 ## Calculator
+
+```
 package src.week2;
 
 import java.util.Scanner;
@@ -142,9 +144,10 @@ public class Calc
         return result;
     }
 }
-
+```
 ## Menu
 ## IntByReference
+```
 package src;
 
 import src.week0.*;
@@ -236,5 +239,5 @@ class Driver {
         }
     }
 }
-
+```
 
