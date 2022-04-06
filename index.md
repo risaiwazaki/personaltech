@@ -1,8 +1,8 @@
 ## Risa's GitHub Pages
 
 Welcome to my github page! Here is where I include my code from my challenges and share with my classmates. Must be on hotspot/not on school wifi to run this!
-
-Testing the [markdown linking](/personaltech/week1).
+Here is my [Week 1 Work](/personaltech/week1).
+Here is my [Week 2 Work](/personaltech/week2).
 
 ### Markdown
 
