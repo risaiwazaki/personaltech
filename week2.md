@@ -1,3 +1,5 @@
+<--[Back to Home Page](/personaltech/)
+
 ## Week 2 Code
 Below are some coding snippets.
 <div markdown=“0”><a href=“https://replit.com/@risaiwazaki/risarefcode#.replit” class=“btn btn-info”> Click to Go Back</a></div>
