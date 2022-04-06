@@ -10,11 +10,13 @@ Below are some coding snippets.
 http://p1-valid.me/personaltech/
 
 ## Queue
-       package week_1;
 
-import java.util.ArrayList;
+```
+    package week_1;
 
-public class queue<T> {
+    import java.util.ArrayList;
+
+    public class queue<T> {
 
     private ArrayList<T> list = new ArrayList<T>();
 
@@ -62,9 +64,13 @@ public class queue<T> {
     }
 }
 
+```
+
 ## Menu
 ## IntByReference
-   import abstract_classes.funcMaster;
+
+```
+import abstract_classes.funcMaster;
 
 import java.util.Dictionary;
 import java.util.Scanner;
@@ -93,3 +99,4 @@ public class menu {
         this.elements.get(x).run();
     }
 }
+```
