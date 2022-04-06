@@ -6,7 +6,9 @@ Here is my [Week 1 Work](/personaltech/week1).
 
 Here is my [Week 2 Work](/personaltech/week2).
 
-<button name="button">Click me</button>
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ### Markdown
 
