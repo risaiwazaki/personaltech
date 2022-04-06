@@ -8,7 +8,7 @@ Here is my [Week 2 Work](/personaltech/week2).
 
 Lorem ipsum dolor sit amet.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="/week1">Click me</button>
 
 ### Markdown
 
