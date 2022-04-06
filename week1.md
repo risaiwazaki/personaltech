@@ -1,8 +1,11 @@
 <--[Back to Home Page](/personaltech/)
 
 ## Week 1 Code
+
+My week one code on Replit is [here](https://replit.com/@risaiwazaki/risachallenge#week_1/stack.java)
+
 Below are some coding snippets.
-<div markdown=“0”><a href=“https://replit.com/@risaiwazaki/risachallenge#week_1/stack.java” class=“btn btn-info”> Click to Go Back</a></div>
+
 
 http://p1-valid.me/personaltech/
 
