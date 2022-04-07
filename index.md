@@ -16,3 +16,4 @@ My Github: [Link](https://github.com/risaiwazaki/personaltech)
 
 My Replit: [Link](https://replit.com/@risaiwazaki/risachallenge)
 
+My Commits on Justin's Repository: [Link](https://github.com/jli615/justincode/commits?author=risaiwazaki)
