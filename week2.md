@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 <--[Back to Home Page](/personaltech/)
 
 ## Week 2 Code
