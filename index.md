@@ -4,7 +4,7 @@
 
 Welcome to my github page! Here is where I include my code from my challenges and share with my classmates. Must be on hotspot/not on school wifi to run this!
 
-Here is my [Tech Talk Notes](/personaltech/techtalk).
+Here is my [Tech Talk Notes](/personaltech/techtalks).
 
 Here is my [Week 0 Work](/personaltech/Week0).
 
