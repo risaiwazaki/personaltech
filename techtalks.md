@@ -1,3 +1,4 @@
+{% include navigation.html %}
 
 # Week 1
 * Linked Lists
