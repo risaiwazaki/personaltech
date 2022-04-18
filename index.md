@@ -16,6 +16,8 @@ Here is my [Week 3 Work](/personaltech/week3).
 
 Here is my [Review Tickets](/personaltech/reviewtickets).
 
+Here are my [Goals](/personaltech/goals).
+
 
 
 
