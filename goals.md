@@ -8,3 +8,4 @@
 - Code a users page 
 - Discuss/hold a meeting with our sponsor every other week to give him updates on our project
 - Create a project that can be used by future students  
+- Design a user profile page 
