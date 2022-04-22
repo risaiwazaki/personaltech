@@ -3,21 +3,33 @@
 # Unit 1: Primitive Data Types in Java
 - Data manipulation is what computer programming does, taking in data, manipulates that data, outputs symbolic data. That manipulation happens because there are a specific set of instructions telling the computer exactly what to do. Programming is a way to articulate instructions that the computer can execute whatever you want to automate. In java, there are many ways to represent information, but a few that are atomic units: primitive data types. In java, there are 8. However, the most popular ones are integers (whole positive or negative numbers) and floating point numbers (numbers that have a fractional part). int is used to represent integers while double is used to represent floating point numbers. Both behave differently. 
 
-"
+
+```
 Int num;
-"
+
+```
 declares an integer called num as a type int. 
 
 This line of codes tells java that we want a variable, a box that puts the integers in
 
+
+```
 num = 3;
+
+```
 This assigns the variable num a value. 
 
+```
 double otherNum = 4.0;
+
+```
 We are declaring and initializing a variable, it could have a fractional portion
 It could be assigned “4” but since if it a double we want to make it extremely obvious that it is a fraction 
 
+```
 System.out.println(“The sum is: “ + sum);
+
+```
 When running this program, the value of sum will replace “sum”, which is 3+4.0
 
 
