@@ -18,6 +18,9 @@ Here is my [Review Tickets](/personaltech/reviewtickets).
 
 Here are my [Goals](/personaltech/goals).
 
+Here are my [CB Notes](/personaltech/lectures).
+
+
 
 
 
