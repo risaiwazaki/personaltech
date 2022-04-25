@@ -23,3 +23,8 @@ Week of 4/18
 - organize a template for all the pages 
 
 
+## Week 1 Reflection
+
+This week was a busy week regarding the planning aspect for our PBL project. Planning is very important, especially since this is a large school project with a sponsor, and we wanted to make sure everything is set before we started coding the big ideas. Our scrum team was very happy when Mr. E approved our backend ideas regarding how to code the profile page and what buttons and features he wants to see. I'm happy to say that next week we are able to start coding and start working hard on our project to ceate a school-wide site that can be used by many!
+
+
