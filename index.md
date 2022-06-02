@@ -23,6 +23,8 @@ Here are my [Goals](/personaltech/goals).
 Here are my [CB Notes](/personaltech/lectures).
 
 
+Here is my [final](/personaltech/final).
+
 
 
 
